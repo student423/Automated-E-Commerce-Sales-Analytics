@@ -91,7 +91,7 @@ DIM_REGION
 
 DIM_DATE
 
-✔ Built using window functions to ensure unique business keys
+✔ Built using window functions to ensure unique business keys.
 ✔ Enforced One-to-Many relationships
 
 # ⚙️ Automation & Incremental Load
@@ -115,7 +115,7 @@ Cost-efficient automation
 Production-style workflow
 
 # 📊 Power BI Dashboards
-Page 1: Executive Overview
+# Page 1: Executive Overview
 
 Total Revenue
 
@@ -133,7 +133,7 @@ Yearly Revenue & Quantity Trends
 
 Interactive slicers (Year, Region, Category)
 
-Page 2: Product & Region Insights
+# Page 2: Product & Region Insights
 
 Top Product Count
 
@@ -193,10 +193,8 @@ End-to-end project ownership
 
 # 📸 Dashboard Preview
 
-(Add screenshots here)
-
 01_Executive_Overview.png
-
+[]!(https://github.com/student423/Automated-E-Commerce-Sales-Analytics/blob/main/ecommerce_dashboards-1.png)
 02_Product_Region_Insights.png
 
 # 🚀 Future Enhancements
