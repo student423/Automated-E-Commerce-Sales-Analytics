@@ -194,8 +194,10 @@ End-to-end project ownership
 # 📸 Dashboard Preview
 
 01_Executive_Overview.png
-[]!(https://github.com/student423/Automated-E-Commerce-Sales-Analytics/blob/main/ecommerce_dashboards-1.png)
+![](https://github.com/student423/Automated-E-Commerce-Sales-Analytics/blob/main/ecommerce_dashboards-1.png)
+
 02_Product_Region_Insights.png
+![](https://github.com/student423/Automated-E-Commerce-Sales-Analytics/blob/main/ecommerce_dashboards-2.png)
 
 # 🚀 Future Enhancements
 
